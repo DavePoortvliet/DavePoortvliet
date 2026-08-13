@@ -17,11 +17,11 @@ Private by design: no accounts, no ads, no tracking — location is used only to
 
 Tech: Swift · SwiftUI · ActivityKit · WidgetKit · CoreLocation
 
-📲 Coming soon to the App Store
+📲 Find it in the [App Store](https://apps.apple.com/us/app/drive-aqi/id6795573789?itscg=30200&itsct=apps_box_link&mttnsubad=6795573789)
 
 - - - - - - - - - - - 
 
-🦩 Trailside Birding - https://trailsidebirding.com/
+🦩 Trailside Birding - [TrailSideBirding.com](https://trailsidebirding.com)
 A birding trail guide blog that cross-references AllTrails and eBird data to tell readers where to walk, when to go, and what birds to expect. 
 
 Tech: Next.js 16, MDX, deployed as a static site
