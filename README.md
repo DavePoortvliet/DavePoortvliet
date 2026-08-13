@@ -4,8 +4,7 @@ Solo indie developer building small, focused apps that do one thing well.
 
 - - - - - - - - - - - 
 
-🚗 Currently building
-Drive AQI — iOS App
+🚗 [Drive AQI](https://apple.co/3UvORM8) — iOS App
 
 Live air quality, right on your car's dashboard. The first app to put the Air Quality Index on the CarPlay Dashboard, using iOS 26 Live Activities — no extra hardware, no setup, it just rides along while you drive.
 
