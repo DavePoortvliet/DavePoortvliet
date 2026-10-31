@@ -1,6 +1,6 @@
 Hi, I'm Dave 👋
 
-Web strategy lead by day at [Global Fishing Watch](https://globalfishingwatch.org), indie developer the rest of the time. I build small, focused apps that do one thing well, mostly because the big ones keep doing seven things badly.
+Web strategy lead by day at [Global Fishing Watch](https://globalfishingwatch.org), indie developer the rest of the time. I build small, focused apps that do one thing well.
 
 More at [davepoortvliet.com](https://davepoortvliet.com).
 
